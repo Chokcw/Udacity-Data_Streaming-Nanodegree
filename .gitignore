@@ -136,7 +136,6 @@ dmypy.json
 
 
 screenshots/
-screenshots.zip
 .ipynb_checkpoints
 .tempfile
 .workspace-config.json
